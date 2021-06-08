@@ -1,1 +1,2 @@
-- Using  git
+- [[isomorphic-git]] is awesome
+-
