@@ -5,5 +5,6 @@
 	- A declarative database query language
 	- http://www.learndatalogtoday.org
 	- Database Schema
-		- A
+		- A flat set of datoms
+			- [entityId ]
 -
