@@ -6,5 +6,5 @@
 	- http://www.learndatalogtoday.org
 	- Database Schema
 		- A flat set of datoms
-			- [entityId ]
+			- [entityId attribute value transactionId]
 -
