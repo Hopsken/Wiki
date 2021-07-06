@@ -4,5 +4,6 @@
 - Datalog Language
 	- A declarative database query language
 	- http://www.learndatalogtoday.org
-	-
+	- Database Schema
+		- A
 -
